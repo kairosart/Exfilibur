@@ -12,5 +12,7 @@ gobuster dir -u 10.10.17.73 -w /usr/share/wordlists/dirb/big.txt -x aspx
 There are 2 paths.
 Only the /Blog one is accesible.
 
+**Next steo:** [[Web Server]]
+
 
 
