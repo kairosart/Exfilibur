@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "EXPLOITATION/Decoding the URL and the users' hashes.md",
+                "file": "EXPLOITATION/Getting access.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "Decoding the URL and the users' hashes"
+              "title": "Getting access"
             }
           },
           {
@@ -28,13 +28,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ENUMERATION/Gobuster.md",
+                "file": "ENUMERATION/Web Server.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "Gobuster"
+              "title": "Web Server"
             }
           },
           {
@@ -43,16 +43,29 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "EXPLOITATION/Exfiltration and Decoding.md",
+                "file": "EXPLOITATION/Getting access.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "Exfiltration and Decoding"
+              "title": "Getting access"
+            }
+          },
+          {
+            "id": "b8619cda27e17baa",
+            "type": "leaf",
+            "state": {
+              "type": "image",
+              "state": {
+                "file": "images/Screenshot from 2025-09-12 12-08-35.png"
+              },
+              "icon": "lucide-image",
+              "title": "Screenshot from 2025-09-12 12-08-35"
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -173,13 +186,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "EXPLOITATION/Decoding the URL and the users' hashes.md",
+                "file": "EXPLOITATION/Getting access.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Decoding the URL and the users' hashes"
+              "title": "Outline of Getting access"
             }
           },
           {
@@ -324,26 +337,27 @@
       "oz-clear-unused-images:Clear Unused Images": false
     }
   },
-  "active": "ef33df5b7e2d6168",
+  "active": "8f5abedacd025360",
   "lastOpenFiles": [
-    "Screenshot from 2025-09-15 12-43-55.png",
-    "EXPLOITATION/Exfiltration and Decoding.md",
-    "ENUMERATION/Nmap.md",
+    "Screenshot from 2025-09-15 20-11-22.png",
+    "Screenshot 2025-09-15 at 14-08-13 Excelibur (guest).png",
     "EXPLOITATION/Decoding the URL and the users' hashes.md",
-    "Screenshot from 2025-09-15 12-36-28.png",
-    "Screenshot from 2025-09-15 12-34-24.png",
-    "images/Screenshot from 2025-09-12 10-43-08.png",
-    "ENUMERATION/Gobuster.md",
-    "Screenshot from 2025-09-15 10-51-17.png",
-    "Screenshot from 2025-09-15 10-47-30-1.png",
-    "Screenshot from 2025-09-15 10-47-30.png",
-    "Screenshot from 2025-09-12 12-20-06.png",
-    "Screenshot from 2025-09-12 12-13-04.png",
-    "Screenshot from 2025-09-12 12-08-35.png",
+    "EXPLOITATION/Exfiltration and Decoding.md",
+    "EXPLOITATION/Getting access.md",
+    "Screenshot from 2025-09-15 19-50-56.png",
+    "images/Screenshot from 2025-09-12 12-08-35.png",
+    "images/Screenshot from 2025-09-15 19-47-59.png",
+    "images/image.png",
     "ENUMERATION/Web Server.md",
+    "images/Screenshot from 2025-09-15 19-43-48.png",
+    "ENUMERATION/Gobuster.md",
+    "images/Screenshot from 2025-09-15 12-43-55.png",
+    "ENUMERATION/Nmap.md",
+    "images/Screenshot from 2025-09-15 12-36-28.png",
+    "images/Screenshot from 2025-09-15 12-34-24.png",
+    "images/Screenshot from 2025-09-12 10-43-08.png",
     "EXPLOITATION",
     "index.md",
-    "images/Screenshot from 2025-09-12 11-31-28.png",
     "ENUMERATION",
     "images",
     "README.md",
@@ -370,7 +384,6 @@
     "PRIVILEGE ESCALATION/Exploiting ESC1 vulnerable template.md",
     "PRIVILEGE ESCALATION/RDP logging as NEWADMINISTRATOR.md",
     "EXPLOITATION/RDP (First flag).md",
-    "EXPLOITATION/Attack Path.md",
-    "ENUMERATION/NXC.md"
+    "EXPLOITATION/Attack Path.md"
   ]
 }
