@@ -167,6 +167,12 @@
       "path": "Setting up.md",
       "subpath": "#Details",
       "title": "Credentials for MU=TH=UR6000"
+    },
+    {
+      "type": "file",
+      "ctime": 1758047919389,
+      "path": "EXPLOITATION/RCE.md",
+      "subpath": "#Draft page"
     }
   ]
 }

@@ -51,3 +51,4 @@ Here, you can see, that the `admin` user is present, because of an error in Send
 
 	![[Screenshot from 2025-09-12 11-31-28.png]]
 
+**Next step:** [[Decoding the URL and the users' hashes]]
