@@ -73,13 +73,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
+                "file": "index.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "README"
+              "title": "index"
             }
           },
           {
@@ -219,13 +219,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "README.md",
+                "file": "index.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of README"
+              "title": "Outline of index"
             }
           },
           {
@@ -372,39 +372,41 @@
   },
   "active": "ef0ed79c52198f2c",
   "lastOpenFiles": [
-    "index.md",
-    "PRIVILEGE ESCALATION/RDP.md",
+    "docs/index.html",
+    "docs/PRIVILEGE ESCALATION/SeImpersonatePrivilege.html",
+    "docs/PRIVILEGE ESCALATION/Root's flag.html",
+    "docs/PRIVILEGE ESCALATION/RDP.html",
+    "docs/PRIVILEGE ESCALATION",
+    "docs/lib/metadata.json",
+    "docs/lib/media/6155340132a851f6089e.svg",
+    "docs/lib/media",
+    "docs/lib/fonts/cbe0ae49c52c920fd563.woff2",
+    "docs/lib/fonts/cb10ffd7684cd9836a05.woff2",
+    "docs/lib/fonts/c8ba52b05a9ef10f4758.woff2",
+    "docs/lib/fonts/b5f0f109bc88052d4000.woff2",
+    "docs/images/Screenshot from 2025-09-18 12-25-14.png",
+    "docs/images/Screenshot from 2025-09-18 12-22-01.png",
+    "docs/images/Screenshot from 2025-09-18 12-11-51.png",
+    "docs/images/Screenshot from 2025-09-18 12-05-24.png",
+    "docs/images/Screenshot from 2025-09-16 20-45-32.png",
+    "docs/images/Screenshot from 2025-09-16 20-43-53.png",
+    "docs/images/Screenshot from 2025-09-16 20-33-09.png",
+    "docs/images/Screenshot from 2025-09-16 20-28-09.png",
+    "docs/images/Screenshot from 2025-09-16 20-21-37.png",
     "PRIVILEGE ESCALATION/SeImpersonatePrivilege.md",
-    "EXPLOITATION/First flag.md",
-    "EXPLOITATION/Decoding the URL and the users' hashes.md",
-    "EXPLOITATION/XXE.md",
-    "EXPLOITATION/Exfiltration and Decoding.md",
-    "ENUMERATION/Web Server.md",
-    "EXPLOITATION/RCE.md",
-    "ENUMERATION/Gobuster.md",
-    "ENUMERATION/Nmap.md",
-    "images/Screenshot from 2025-09-18 12-05-24.png",
     "PRIVILEGE ESCALATION/Root's flag.md",
-    "images/Screenshot from 2025-09-18 12-25-14.png",
-    "images/Screenshot from 2025-09-18 12-22-01.png",
-    "images/Screenshot from 2025-09-18 12-11-51.png",
-    "images/Screenshot 2025-09-15 at 14-08-13 Excelibur (guest).png",
-    "PRIVILEGE ESCALATION",
-    "images/Screenshot from 2025-09-16 20-45-32.png",
-    "images/Screenshot from 2025-09-16 20-43-53.png",
-    "images/Screenshot from 2025-09-16 20-33-09.png",
-    "images/Screenshot from 2025-09-16 20-28-09.png",
-    "images/Screenshot from 2025-09-16 20-21-37.png",
-    "EXPLOITATION",
-    "ENUMERATION",
-    "images",
+    "PRIVILEGE ESCALATION/RDP.md",
+    "EXPLOITATION/XXE.md",
+    "EXPLOITATION/RCE.md",
+    "EXPLOITATION/First flag.md",
+    "EXPLOITATION/Exfiltration and Decoding.md",
+    "EXPLOITATION/Decoding the URL and the users' hashes.md",
+    "ENUMERATION/Web Server.md",
+    "ENUMERATION/Nmap.md",
+    "ENUMERATION/Gobuster.md",
+    "index.md",
     "README.md",
     "Exfilibur/Welcome.md",
-    "Exfilibur",
-    "docs/PRIVILEGE ESCALATION/User's privileges.html",
-    "docs/PRIVILEGE ESCALATION/Thrid flag.html",
-    "docs/PRIVILEGE ESCALATION/Reverse shell.html",
-    "docs/PRIVILEGE ESCALATION",
     "PRIVILEGE ESCALATION/User's privileges.md",
     "PRIVILEGE ESCALATION/Thrid flag.md",
     "PRIVILEGE ESCALATION/Reverse shell.md",
@@ -415,7 +417,6 @@
     "EXPLOITATION/Certificate.md",
     "EXPLOITATION/Accessing Windows Powershell.md",
     "ENUMERATION/Web Server selfservice.windcorp.thm.md",
-    "ENUMERATION/Web server fire.windcorp.thm.md",
-    "docs/lib/metadata.json"
+    "ENUMERATION/Web server fire.windcorp.thm.md"
   ]
 }

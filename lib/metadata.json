@@ -1,0 +1,499 @@
+{
+  "vaultName": "You Got Mail",
+  "lastExport": 1758191921085,
+  "pluginVersion": "1.8.01",
+  "validBodyClasses": "publish css-settings-manager theme-dark show-inline-title show-ribbon",
+  "useCustomHeadContent": false,
+  "useCustomFavicon": false,
+  "files": [
+    "ENUMERATION/Gobuster.md",
+    "ENUMERATION/Nmap.md",
+    "ENUMERATION/Web Server.md",
+    "EXPLOITATION/Decoding the URL and the users' hashes.md",
+    "EXPLOITATION/Exfiltration and Decoding.md",
+    "EXPLOITATION/First flag.md",
+    "EXPLOITATION/RCE.md",
+    "EXPLOITATION/XXE.md",
+    "images/image.png",
+    "images/Screenshot 2025-09-15 at 14-08-13 Excelibur (guest).png",
+    "images/Screenshot from 2025-09-11 10-19-27.png",
+    "images/Screenshot from 2025-09-11 10-25-03.png",
+    "images/Screenshot from 2025-09-11 10-51-43.png",
+    "images/Screenshot from 2025-09-11 12-10-49 1.png",
+    "images/Screenshot from 2025-09-11 12-15-48.png",
+    "images/Screenshot from 2025-09-11 12-19-23.png",
+    "images/Screenshot from 2025-09-12 10-43-08.png",
+    "images/Screenshot from 2025-09-12 10-44-11.png",
+    "images/Screenshot from 2025-09-12 10-50-14.png",
+    "images/Screenshot from 2025-09-12 10-52-52.png",
+    "images/Screenshot from 2025-09-12 10-59-35.png",
+    "images/Screenshot from 2025-09-12 11-10-18.png",
+    "images/Screenshot from 2025-09-12 11-16-58.png",
+    "images/Screenshot from 2025-09-12 11-30-13.png",
+    "images/Screenshot from 2025-09-12 11-31-28.png",
+    "images/Screenshot from 2025-09-12 12-08-35.png",
+    "images/Screenshot from 2025-09-12 12-13-04.png",
+    "images/Screenshot from 2025-09-12 12-20-06.png",
+    "images/Screenshot from 2025-09-15 10-47-30.png",
+    "images/Screenshot from 2025-09-15 10-51-17.png",
+    "images/Screenshot from 2025-09-15 12-34-24.png",
+    "images/Screenshot from 2025-09-15 12-36-28.png",
+    "images/Screenshot from 2025-09-15 12-43-55.png",
+    "images/Screenshot from 2025-09-15 19-43-48.png",
+    "images/Screenshot from 2025-09-15 19-47-59.png",
+    "images/Screenshot from 2025-09-15 19-50-56.png",
+    "images/Screenshot from 2025-09-15 20-11-22.png",
+    "images/Screenshot from 2025-09-16 12-45-33.png",
+    "images/Screenshot from 2025-09-16 20-21-37.png",
+    "images/Screenshot from 2025-09-16 20-28-09.png",
+    "images/Screenshot from 2025-09-16 20-33-09.png",
+    "images/Screenshot from 2025-09-16 20-43-53.png",
+    "images/Screenshot from 2025-09-16 20-45-32.png",
+    "images/Screenshot from 2025-09-18 12-05-24.png",
+    "images/Screenshot from 2025-09-18 12-11-51.png",
+    "images/Screenshot from 2025-09-18 12-22-01.png",
+    "images/Screenshot from 2025-09-18 12-25-14.png",
+    "PRIVILEGE ESCALATION/RDP.md",
+    "PRIVILEGE ESCALATION/Root's flag.md",
+    "PRIVILEGE ESCALATION/SeImpersonatePrivilege.md",
+    "index.md",
+    "lib/fonts/94f2f163d4b698242fef.otf",
+    "lib/fonts/72505e6a122c6acd5471.woff2",
+    "lib/fonts/2d5198822ab091ce4305.woff2",
+    "lib/fonts/c8ba52b05a9ef10f4758.woff2",
+    "lib/fonts/cb10ffd7684cd9836a05.woff2",
+    "lib/fonts/293fd13dbca5a3e450ef.woff2",
+    "lib/fonts/085cb93e613ba3d40d2b.woff2",
+    "lib/fonts/b5f0f109bc88052d4000.woff2",
+    "lib/fonts/cbe0ae49c52c920fd563.woff2",
+    "lib/fonts/535a6cf662596b3bd6a6.woff2",
+    "lib/fonts/70cc7ff27245e82ad414.ttf",
+    "lib/fonts/454577c22304619db035.ttf",
+    "lib/fonts/52ac8f3034507f1d9e53.ttf",
+    "lib/fonts/05b618077343fbbd92b7.ttf",
+    "lib/fonts/4bb6ac751d1c5478ff3a.woff2",
+    "lib/media/6155340132a851f6089e.svg"
+  ],
+  "mainDependencies": [
+    "lib/fonts/94f2f163d4b698242fef.otf",
+    "lib/fonts/72505e6a122c6acd5471.woff2",
+    "lib/fonts/2d5198822ab091ce4305.woff2",
+    "lib/fonts/c8ba52b05a9ef10f4758.woff2",
+    "lib/fonts/cb10ffd7684cd9836a05.woff2",
+    "lib/fonts/293fd13dbca5a3e450ef.woff2",
+    "lib/fonts/085cb93e613ba3d40d2b.woff2",
+    "lib/fonts/b5f0f109bc88052d4000.woff2",
+    "lib/fonts/cbe0ae49c52c920fd563.woff2",
+    "lib/fonts/535a6cf662596b3bd6a6.woff2",
+    "lib/fonts/70cc7ff27245e82ad414.ttf",
+    "lib/fonts/454577c22304619db035.ttf",
+    "lib/fonts/52ac8f3034507f1d9e53.ttf",
+    "lib/fonts/05b618077343fbbd92b7.ttf",
+    "lib/fonts/4bb6ac751d1c5478ff3a.woff2",
+    "lib/media/6155340132a851f6089e.svg"
+  ],
+  "fileInfo": {
+    "ENUMERATION/Gobuster.md": {
+      "modifiedTime": 1758191921085,
+      "sourceSize": 268,
+      "exportedPath": "ENUMERATION/Gobuster.html",
+      "dependencies": []
+    },
+    "ENUMERATION/Nmap.md": {
+      "modifiedTime": 1758191921085,
+      "sourceSize": 451,
+      "exportedPath": "ENUMERATION/Nmap.html",
+      "dependencies": []
+    },
+    "ENUMERATION/Web Server.md": {
+      "modifiedTime": 1758191921085,
+      "sourceSize": 1396,
+      "exportedPath": "ENUMERATION/Web Server.html",
+      "dependencies": []
+    },
+    "EXPLOITATION/Decoding the URL and the users' hashes.md": {
+      "modifiedTime": 1758191921085,
+      "sourceSize": 1965,
+      "exportedPath": "EXPLOITATION/Decoding the URL and the users' hashes.html",
+      "dependencies": []
+    },
+    "EXPLOITATION/Exfiltration and Decoding.md": {
+      "modifiedTime": 1758191921085,
+      "sourceSize": 1102,
+      "exportedPath": "EXPLOITATION/Exfiltration and Decoding.html",
+      "dependencies": []
+    },
+    "EXPLOITATION/First flag.md": {
+      "modifiedTime": 1758191921085,
+      "sourceSize": 453,
+      "exportedPath": "EXPLOITATION/First flag.html",
+      "dependencies": []
+    },
+    "EXPLOITATION/RCE.md": {
+      "modifiedTime": 1758191921085,
+      "sourceSize": 4087,
+      "exportedPath": "EXPLOITATION/RCE.html",
+      "dependencies": []
+    },
+    "EXPLOITATION/XXE.md": {
+      "modifiedTime": 1758191921085,
+      "sourceSize": 3529,
+      "exportedPath": "EXPLOITATION/XXE.html",
+      "dependencies": []
+    },
+    "images/image.png": {
+      "modifiedTime": 1758191921085,
+      "sourceSize": 23172,
+      "exportedPath": "images/image.png",
+      "dependencies": []
+    },
+    "images/Screenshot 2025-09-15 at 14-08-13 Excelibur (guest).png": {
+      "modifiedTime": 1758191921085,
+      "sourceSize": 585,
+      "exportedPath": "images/Screenshot 2025-09-15 at 14-08-13 Excelibur (guest).png",
+      "dependencies": []
+    },
+    "images/Screenshot from 2025-09-11 10-19-27.png": {
+      "modifiedTime": 1758191921085,
+      "sourceSize": 78991,
+      "exportedPath": "images/Screenshot from 2025-09-11 10-19-27.png",
+      "dependencies": []
+    },
+    "images/Screenshot from 2025-09-11 10-25-03.png": {
+      "modifiedTime": 1758191921085,
+      "sourceSize": 140700,
+      "exportedPath": "images/Screenshot from 2025-09-11 10-25-03.png",
+      "dependencies": []
+    },
+    "images/Screenshot from 2025-09-11 10-51-43.png": {
+      "modifiedTime": 1758191921085,
+      "sourceSize": 115041,
+      "exportedPath": "images/Screenshot from 2025-09-11 10-51-43.png",
+      "dependencies": []
+    },
+    "images/Screenshot from 2025-09-11 12-10-49 1.png": {
+      "modifiedTime": 1758191921085,
+      "sourceSize": 68938,
+      "exportedPath": "images/Screenshot from 2025-09-11 12-10-49 1.png",
+      "dependencies": []
+    },
+    "images/Screenshot from 2025-09-11 12-15-48.png": {
+      "modifiedTime": 1758191921085,
+      "sourceSize": 50364,
+      "exportedPath": "images/Screenshot from 2025-09-11 12-15-48.png",
+      "dependencies": []
+    },
+    "images/Screenshot from 2025-09-11 12-19-23.png": {
+      "modifiedTime": 1758191921085,
+      "sourceSize": 19449,
+      "exportedPath": "images/Screenshot from 2025-09-11 12-19-23.png",
+      "dependencies": []
+    },
+    "images/Screenshot from 2025-09-12 10-43-08.png": {
+      "modifiedTime": 1758191921085,
+      "sourceSize": 792,
+      "exportedPath": "images/Screenshot from 2025-09-12 10-43-08.png",
+      "dependencies": []
+    },
+    "images/Screenshot from 2025-09-12 10-44-11.png": {
+      "modifiedTime": 1758191921085,
+      "sourceSize": 20670,
+      "exportedPath": "images/Screenshot from 2025-09-12 10-44-11.png",
+      "dependencies": []
+    },
+    "images/Screenshot from 2025-09-12 10-50-14.png": {
+      "modifiedTime": 1758191921085,
+      "sourceSize": 35342,
+      "exportedPath": "images/Screenshot from 2025-09-12 10-50-14.png",
+      "dependencies": []
+    },
+    "images/Screenshot from 2025-09-12 10-52-52.png": {
+      "modifiedTime": 1758191921085,
+      "sourceSize": 18545,
+      "exportedPath": "images/Screenshot from 2025-09-12 10-52-52.png",
+      "dependencies": []
+    },
+    "images/Screenshot from 2025-09-12 10-59-35.png": {
+      "modifiedTime": 1758191921085,
+      "sourceSize": 156050,
+      "exportedPath": "images/Screenshot from 2025-09-12 10-59-35.png",
+      "dependencies": []
+    },
+    "images/Screenshot from 2025-09-12 11-10-18.png": {
+      "modifiedTime": 1758191921085,
+      "sourceSize": 35387,
+      "exportedPath": "images/Screenshot from 2025-09-12 11-10-18.png",
+      "dependencies": []
+    },
+    "images/Screenshot from 2025-09-12 11-16-58.png": {
+      "modifiedTime": 1758191921085,
+      "sourceSize": 44519,
+      "exportedPath": "images/Screenshot from 2025-09-12 11-16-58.png",
+      "dependencies": []
+    },
+    "images/Screenshot from 2025-09-12 11-30-13.png": {
+      "modifiedTime": 1758191921085,
+      "sourceSize": 12968,
+      "exportedPath": "images/Screenshot from 2025-09-12 11-30-13.png",
+      "dependencies": []
+    },
+    "images/Screenshot from 2025-09-12 11-31-28.png": {
+      "modifiedTime": 1758191921085,
+      "sourceSize": 17411,
+      "exportedPath": "images/Screenshot from 2025-09-12 11-31-28.png",
+      "dependencies": []
+    },
+    "images/Screenshot from 2025-09-12 12-08-35.png": {
+      "modifiedTime": 1758191921085,
+      "sourceSize": 60206,
+      "exportedPath": "images/Screenshot from 2025-09-12 12-08-35.png",
+      "dependencies": []
+    },
+    "images/Screenshot from 2025-09-12 12-13-04.png": {
+      "modifiedTime": 1758191921085,
+      "sourceSize": 49184,
+      "exportedPath": "images/Screenshot from 2025-09-12 12-13-04.png",
+      "dependencies": []
+    },
+    "images/Screenshot from 2025-09-12 12-20-06.png": {
+      "modifiedTime": 1758191921085,
+      "sourceSize": 53539,
+      "exportedPath": "images/Screenshot from 2025-09-12 12-20-06.png",
+      "dependencies": []
+    },
+    "images/Screenshot from 2025-09-15 10-47-30.png": {
+      "modifiedTime": 1758191921085,
+      "sourceSize": 42742,
+      "exportedPath": "images/Screenshot from 2025-09-15 10-47-30.png",
+      "dependencies": []
+    },
+    "images/Screenshot from 2025-09-15 10-51-17.png": {
+      "modifiedTime": 1758191921085,
+      "sourceSize": 93530,
+      "exportedPath": "images/Screenshot from 2025-09-15 10-51-17.png",
+      "dependencies": []
+    },
+    "images/Screenshot from 2025-09-15 12-34-24.png": {
+      "modifiedTime": 1758191921085,
+      "sourceSize": 58894,
+      "exportedPath": "images/Screenshot from 2025-09-15 12-34-24.png",
+      "dependencies": []
+    },
+    "images/Screenshot from 2025-09-15 12-36-28.png": {
+      "modifiedTime": 1758191921085,
+      "sourceSize": 88250,
+      "exportedPath": "images/Screenshot from 2025-09-15 12-36-28.png",
+      "dependencies": []
+    },
+    "images/Screenshot from 2025-09-15 12-43-55.png": {
+      "modifiedTime": 1758191921085,
+      "sourceSize": 62069,
+      "exportedPath": "images/Screenshot from 2025-09-15 12-43-55.png",
+      "dependencies": []
+    },
+    "images/Screenshot from 2025-09-15 19-43-48.png": {
+      "modifiedTime": 1758191921085,
+      "sourceSize": 137394,
+      "exportedPath": "images/Screenshot from 2025-09-15 19-43-48.png",
+      "dependencies": []
+    },
+    "images/Screenshot from 2025-09-15 19-47-59.png": {
+      "modifiedTime": 1758191921085,
+      "sourceSize": 57190,
+      "exportedPath": "images/Screenshot from 2025-09-15 19-47-59.png",
+      "dependencies": []
+    },
+    "images/Screenshot from 2025-09-15 19-50-56.png": {
+      "modifiedTime": 1758191921085,
+      "sourceSize": 135007,
+      "exportedPath": "images/Screenshot from 2025-09-15 19-50-56.png",
+      "dependencies": []
+    },
+    "images/Screenshot from 2025-09-15 20-11-22.png": {
+      "modifiedTime": 1758191921085,
+      "sourceSize": 18491,
+      "exportedPath": "images/Screenshot from 2025-09-15 20-11-22.png",
+      "dependencies": []
+    },
+    "images/Screenshot from 2025-09-16 12-45-33.png": {
+      "modifiedTime": 1758191921085,
+      "sourceSize": 23594,
+      "exportedPath": "images/Screenshot from 2025-09-16 12-45-33.png",
+      "dependencies": []
+    },
+    "images/Screenshot from 2025-09-16 20-21-37.png": {
+      "modifiedTime": 1758191921085,
+      "sourceSize": 47028,
+      "exportedPath": "images/Screenshot from 2025-09-16 20-21-37.png",
+      "dependencies": []
+    },
+    "images/Screenshot from 2025-09-16 20-28-09.png": {
+      "modifiedTime": 1758191921085,
+      "sourceSize": 6526,
+      "exportedPath": "images/Screenshot from 2025-09-16 20-28-09.png",
+      "dependencies": []
+    },
+    "images/Screenshot from 2025-09-16 20-33-09.png": {
+      "modifiedTime": 1758191921085,
+      "sourceSize": 80865,
+      "exportedPath": "images/Screenshot from 2025-09-16 20-33-09.png",
+      "dependencies": []
+    },
+    "images/Screenshot from 2025-09-16 20-43-53.png": {
+      "modifiedTime": 1758191921085,
+      "sourceSize": 164799,
+      "exportedPath": "images/Screenshot from 2025-09-16 20-43-53.png",
+      "dependencies": []
+    },
+    "images/Screenshot from 2025-09-16 20-45-32.png": {
+      "modifiedTime": 1758191921085,
+      "sourceSize": 6961,
+      "exportedPath": "images/Screenshot from 2025-09-16 20-45-32.png",
+      "dependencies": []
+    },
+    "images/Screenshot from 2025-09-18 12-05-24.png": {
+      "modifiedTime": 1758191921085,
+      "sourceSize": 52444,
+      "exportedPath": "images/Screenshot from 2025-09-18 12-05-24.png",
+      "dependencies": []
+    },
+    "images/Screenshot from 2025-09-18 12-11-51.png": {
+      "modifiedTime": 1758191921085,
+      "sourceSize": 53113,
+      "exportedPath": "images/Screenshot from 2025-09-18 12-11-51.png",
+      "dependencies": []
+    },
+    "images/Screenshot from 2025-09-18 12-22-01.png": {
+      "modifiedTime": 1758191921085,
+      "sourceSize": 390501,
+      "exportedPath": "images/Screenshot from 2025-09-18 12-22-01.png",
+      "dependencies": []
+    },
+    "images/Screenshot from 2025-09-18 12-25-14.png": {
+      "modifiedTime": 1758191921085,
+      "sourceSize": 3748,
+      "exportedPath": "images/Screenshot from 2025-09-18 12-25-14.png",
+      "dependencies": []
+    },
+    "PRIVILEGE ESCALATION/RDP.md": {
+      "modifiedTime": 1758191921085,
+      "sourceSize": 274,
+      "exportedPath": "PRIVILEGE ESCALATION/RDP.html",
+      "dependencies": []
+    },
+    "PRIVILEGE ESCALATION/Root's flag.md": {
+      "modifiedTime": 1758191921085,
+      "sourceSize": 232,
+      "exportedPath": "PRIVILEGE ESCALATION/Root's flag.html",
+      "dependencies": []
+    },
+    "PRIVILEGE ESCALATION/SeImpersonatePrivilege.md": {
+      "modifiedTime": 1758191921085,
+      "sourceSize": 2026,
+      "exportedPath": "PRIVILEGE ESCALATION/SeImpersonatePrivilege.html",
+      "dependencies": []
+    },
+    "index.md": {
+      "modifiedTime": 1758191921085,
+      "sourceSize": 672,
+      "exportedPath": "index.html",
+      "dependencies": []
+    },
+    "lib/fonts/94f2f163d4b698242fef.otf": {
+      "modifiedTime": 1758191921085,
+      "sourceSize": 66800,
+      "exportedPath": "lib/fonts/94f2f163d4b698242fef.otf",
+      "dependencies": []
+    },
+    "lib/fonts/72505e6a122c6acd5471.woff2": {
+      "modifiedTime": 1758191921085,
+      "sourceSize": 104232,
+      "exportedPath": "lib/fonts/72505e6a122c6acd5471.woff2",
+      "dependencies": []
+    },
+    "lib/fonts/2d5198822ab091ce4305.woff2": {
+      "modifiedTime": 1758191921085,
+      "sourceSize": 104332,
+      "exportedPath": "lib/fonts/2d5198822ab091ce4305.woff2",
+      "dependencies": []
+    },
+    "lib/fonts/c8ba52b05a9ef10f4758.woff2": {
+      "modifiedTime": 1758191921085,
+      "sourceSize": 98868,
+      "exportedPath": "lib/fonts/c8ba52b05a9ef10f4758.woff2",
+      "dependencies": []
+    },
+    "lib/fonts/cb10ffd7684cd9836a05.woff2": {
+      "modifiedTime": 1758191921085,
+      "sourceSize": 106876,
+      "exportedPath": "lib/fonts/cb10ffd7684cd9836a05.woff2",
+      "dependencies": []
+    },
+    "lib/fonts/293fd13dbca5a3e450ef.woff2": {
+      "modifiedTime": 1758191921085,
+      "sourceSize": 105924,
+      "exportedPath": "lib/fonts/293fd13dbca5a3e450ef.woff2",
+      "dependencies": []
+    },
+    "lib/fonts/085cb93e613ba3d40d2b.woff2": {
+      "modifiedTime": 1758191921085,
+      "sourceSize": 112184,
+      "exportedPath": "lib/fonts/085cb93e613ba3d40d2b.woff2",
+      "dependencies": []
+    },
+    "lib/fonts/b5f0f109bc88052d4000.woff2": {
+      "modifiedTime": 1758191921085,
+      "sourceSize": 105804,
+      "exportedPath": "lib/fonts/b5f0f109bc88052d4000.woff2",
+      "dependencies": []
+    },
+    "lib/fonts/cbe0ae49c52c920fd563.woff2": {
+      "modifiedTime": 1758191921085,
+      "sourceSize": 106108,
+      "exportedPath": "lib/fonts/cbe0ae49c52c920fd563.woff2",
+      "dependencies": []
+    },
+    "lib/fonts/535a6cf662596b3bd6a6.woff2": {
+      "modifiedTime": 1758191921085,
+      "sourceSize": 111708,
+      "exportedPath": "lib/fonts/535a6cf662596b3bd6a6.woff2",
+      "dependencies": []
+    },
+    "lib/fonts/70cc7ff27245e82ad414.ttf": {
+      "modifiedTime": 1758191921085,
+      "sourceSize": 192740,
+      "exportedPath": "lib/fonts/70cc7ff27245e82ad414.ttf",
+      "dependencies": []
+    },
+    "lib/fonts/454577c22304619db035.ttf": {
+      "modifiedTime": 1758191921085,
+      "sourceSize": 161376,
+      "exportedPath": "lib/fonts/454577c22304619db035.ttf",
+      "dependencies": []
+    },
+    "lib/fonts/52ac8f3034507f1d9e53.ttf": {
+      "modifiedTime": 1758191921085,
+      "sourceSize": 191568,
+      "exportedPath": "lib/fonts/52ac8f3034507f1d9e53.ttf",
+      "dependencies": []
+    },
+    "lib/fonts/05b618077343fbbd92b7.ttf": {
+      "modifiedTime": 1758191921085,
+      "sourceSize": 155288,
+      "exportedPath": "lib/fonts/05b618077343fbbd92b7.ttf",
+      "dependencies": []
+    },
+    "lib/fonts/4bb6ac751d1c5478ff3a.woff2": {
+      "modifiedTime": 1758191921085,
+      "sourceSize": 7876,
+      "exportedPath": "lib/fonts/4bb6ac751d1c5478ff3a.woff2",
+      "dependencies": []
+    },
+    "lib/media/6155340132a851f6089e.svg": {
+      "modifiedTime": 1758191921085,
+      "sourceSize": 315,
+      "exportedPath": "lib/media/6155340132a851f6089e.svg",
+      "dependencies": []
+    }
+  }
+}
