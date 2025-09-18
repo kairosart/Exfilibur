@@ -1,7 +1,7 @@
 ## Simple enumeration
 
 ```
-nmap -A 10.10.17.73 -Pn
+nmap -A <MACHINE IP> -Pn
 ```
 
 ![[Screenshot from 2025-09-11 10-25-03.png]]
@@ -9,7 +9,7 @@ nmap -A 10.10.17.73 -Pn
 ## Deeper enumeration
 
 ```
-sudo nmap -p- -sS -T4 -v 10.10.17.73 -Pn
+sudo nmap -p- -sS -T4 -v <MACHINE IP> -Pn
 ```
 
 ![[Screenshot from 2025-09-11 10-51-43.png]]

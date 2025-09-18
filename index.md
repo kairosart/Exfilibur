@@ -6,3 +6,15 @@ Can you find all the flags?
   
 The VM may take about 5 minutes to boot up fully.
 
+## Steps
+
+1. [[Nmap]]
+2. [[Gobuster]]
+3. [[Web Server]]
+4. [[Exfiltration and Decoding]]
+5. [[XXE]]
+6. [[Decoding the URL and the users' hashes]]
+7. [[First flag]]
+8. [[SeImpersonatePrivilege]]
+9. [[RDP]]
+10. [[Root's flag]]
